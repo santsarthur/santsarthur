@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arthur Santos!
+# 👋 What's up, I'm Arthur Santos!
 
 🌍 **From Belo Horizonte, Brazil**  
 🎂 **20 years old**  
