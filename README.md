@@ -13,9 +13,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-santos-19537a336/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45" />
+    <img align="center" src="https://github.com/santsarthur/santsarthur/blob/main/img/icone_linkedin_plaquinha_app_1519_1_b7c66ad1f93c1440aba86ece11b79db2-removebg-preview.png" alt="LinkedIn" height="70" width="70" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://sites.google.com/view/portfolio-power-bi-arthur/in%C3%ADcio" target="_blank">
     <img align="center" src="https://github.com/santsarthur/santsarthur/blob/main/img/portfolio-paper-banner-with-colorful-brush-strokes-vector-21849126-removebg-preview.png?raw=true" alt="Portfólio" height="57" width="125" />
   </a>
