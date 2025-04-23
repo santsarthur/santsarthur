@@ -10,14 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=arthursantosds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Links:</h3>
+<h2 align="left">Links:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-santos-19537a336/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45" /></a>
    <a href="https://sites.google.com/view/portfolio-power-bi-arthur/in%C3%ADcio" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=oDGoCSksQ6n5&format=png&color=000000" alt="Portfóilio" height="57" width="57" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -28,7 +28,7 @@
 </p>
 
 
-<h3 align="left">🚀 A bit about me:</h3>
+<h2 align="left">🚀 A bit about me:</h3>
 
 - 👨‍💻 20 year old data enthusiast from **Belo Horizonte, Brazil**
 - 🌍 Native Portuguese speaker | English: Advanced
