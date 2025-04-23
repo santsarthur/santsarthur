@@ -1,52 +1,49 @@
-# 👋 What's up, I'm Arthur Santos!
-
-🌍 **From Belo Horizonte, Brazil**  
-🎂 **20 years old**  
-🗣️ **Native language: Portuguese | Advanced English**
+![](./github_banner.png)
 
 ---
 
-## 💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-I’ve always been passionate about technology, and I fell in love with the field of **Data**. With a strong background in **data analysis** and **dashboard creation**, I specialize in **Power BI**, where I’ve developed numerous impactful dashboards for various business areas.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dswharshit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
----
+<h3 align="left">Connect with me:</h3>
 
-## 🔧 Skills & Expertise
 
-- **Power BI**:  
-  Experienced in creating dashboards like:  
-  - **DRE**  
-  - **Production**  
-  - **Finance**  
-  - **Payroll**  
-  - **People & HR Management**
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://highsignalai.substack.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/substack.svg" alt="High Signal AI" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tyagiharshit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/dswharshit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="40" /></a>
+</p>
 
-- **Data Engineering**:  
-  Proficient in **ETL processes** and **data modeling**.
+<h3 align="left">Languages and Tools:</h3>
 
-- **Low-Code Development**:  
-  Developed applications such as:
-  - **Invoice generation**  
-  - **Task and request management apps**  
-  - **Product quality monitoring systems**  
-  These apps turned tedious tasks into **efficient, practical, and user-friendly solutions**. However, **low-code platforms have limitations** when it comes to creating complex features, which led me to focus on **building systems from scratch** to have more flexibility and control.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
-- **SQL & Python**:  
-  Currently learning to build **custom systems from scratch** using **SQL databases** and **Python**, aiming to overcome the limitations of low-code platforms.
+<h3 align="left">🚀 What I'm up to</h3>
 
----
+- Edimate - Text to video platform
 
-## 🤖 Machine Learning & Data Science
+- LLM Research Program (coming soon...)
 
-As a **data enthusiast**, I’m also diving into **Machine Learning**, where I discover valuable insights and build solutions that can **make a real impact**. Using my growing knowledge, I aim to help individuals and organizations with data-driven decision-making.
+- AI powered newsletter
 
----
+<h3 align="left">📚 Check out my content</h3>
+<p align="left">
+  📺 YouTube: <a href="https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ" target="_blank">AI Engineering Channel</a><br>
+  📝 Substack: <a href="https://highsignalai.substack.com/" target="_blank">High Signal AI</a>
+</p>
 
-## 🚀 Why English?
-
-Even though my native language is **Portuguese**, I decided to do everything in **English** to expand my reach and connect with a wider audience. This allows me to share my work, learn from others globally, and collaborate on exciting projects.
-
----
-
-Feel free to explore my repositories and let's connect! 🚀
+<p align="left">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
