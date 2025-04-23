@@ -28,7 +28,7 @@
 </p>
 
 
-<h2 align="left">🚀 A bit about me:</h3>
+<h2 align="left">A bit about me:</h3>
 
 - 👨‍💻 20 year old data enthusiast from **Belo Horizonte, Brazil**
 - 🌍 Native Portuguese speaker | English: Advanced
